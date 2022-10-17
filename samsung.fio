@@ -1,3 +1,5 @@
+# DOI TEST
+
 [global]
 directory=/home/user/mnt/
 ioengine=pvsync2
